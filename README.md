@@ -1,4 +1,4 @@
-**Stop using GitHub.**
+# Stop using GitHub.
 
 ![ice immigration and customs enforcement powered by microsoft](https://user-images.githubusercontent.com/2541728/41804591-60c287d8-7667-11e8-8d48-7b9ba517a7d1.png)
 
