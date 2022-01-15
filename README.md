@@ -25,5 +25,4 @@ and [so should you](https://codeberg.org).  (Don't switch to GitLab, they have [
 same
 problem](https://www.theregister.com/2019/10/16/gitlab_employees_gagged/).)
 
-Ali Reza Hayati
-https://alirezahayati.com
+[Ali Reza Hayati](https://alirezahayati.com)
